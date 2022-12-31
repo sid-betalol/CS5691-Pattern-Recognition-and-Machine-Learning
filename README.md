@@ -1,7 +1,7 @@
 # CS5691-Pattern-Recognition-and-Machine-Learning
 This repository contains all assignments related to the course CS5691 (Pattern Recognition and Machine Learning).
 
-Course Instructor - [Prof. Srinivasa Chakravarthy](https://sites.google.com/site/harishguruprasad/)
+Course Instructor - [Dr. Harish Guruprasad Ramaswamy](https://sites.google.com/site/harishguruprasad/)
 
 Course Session: August-December 2022
 
